@@ -692,7 +692,7 @@ unzip:
 uuid:
   osx:
     homebrew:
-      packages: [uuid]
+      packages: [ros/deps/uuid]
 wxpython:
   osx:
     homebrew:
